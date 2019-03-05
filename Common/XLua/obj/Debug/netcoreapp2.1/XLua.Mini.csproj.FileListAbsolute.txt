@@ -32,3 +32,12 @@ D:\laiyangjun\test_program\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.Assembl
 D:\laiyangjun\test_program\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.AssemblyInfo.cs
 D:\laiyangjun\test_program\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.dll
 D:\laiyangjun\test_program\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.pdb
+D:\laiyangjun\test_program\utilityUsage-\Common\bin\Debug\netcoreapp2.1\XLua.Mini.deps.json
+D:\laiyangjun\test_program\utilityUsage-\Common\bin\Debug\netcoreapp2.1\XLua.Mini.dll
+D:\laiyangjun\test_program\utilityUsage-\Common\bin\Debug\netcoreapp2.1\XLua.Mini.pdb
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.csprojAssemblyReference.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.csproj.CoreCompileInputs.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.AssemblyInfoInputs.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.AssemblyInfo.cs
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.dll
+D:\laiyangjun\test_program\utilityUsage-\Common\XLua\obj\Debug\netcoreapp2.1\XLua.Mini.pdb

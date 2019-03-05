@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\laiyangjun\\test_program\\Common\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\laiyangjun\\test_program\\utilityUsage-\\Common\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\laiyangjun\\test_program\\Common\\Common\\Common.csproj",
+      "projectPath": "D:\\laiyangjun\\test_program\\utilityUsage-\\Common\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\laiyangjun.clark\\.nuget\\packages\\",
-      "outputPath": "D:\\laiyangjun\\test_program\\Common\\Common\\obj\\",
+      "outputPath": "D:\\laiyangjun\\test_program\\utilityUsage-\\Common\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\laiyangjun\\test_program\\Common\\XLua\\XLua.Mini.csproj": {
-              "projectPath": "D:\\laiyangjun\\test_program\\Common\\XLua\\XLua.Mini.csproj"
+            "D:\\laiyangjun\\test_program\\utilityUsage-\\Common\\XLua\\XLua.Mini.csproj": {
+              "projectPath": "D:\\laiyangjun\\test_program\\utilityUsage-\\Common\\XLua\\XLua.Mini.csproj"
             }
           }
         }

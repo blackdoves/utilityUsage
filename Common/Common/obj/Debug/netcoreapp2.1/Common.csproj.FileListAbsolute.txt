@@ -26,3 +26,17 @@ D:\laiyangjun\test_program\Common\Common\obj\Debug\netcoreapp2.1\Common.Assembly
 D:\laiyangjun\test_program\Common\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
 D:\laiyangjun\test_program\Common\Common\obj\Debug\netcoreapp2.1\Common.dll
 D:\laiyangjun\test_program\Common\Common\obj\Debug\netcoreapp2.1\Common.pdb
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.json
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\Common.runtimeconfig.dev.json
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\Common.dll
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\Common.pdb
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\XLua.Mini.dll
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\bin\Debug\netcoreapp2.1\XLua.Mini.pdb
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.csproj.CopyComplete
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.dll
+D:\laiyangjun\test_program\utilityUsage-\Common\Common\obj\Debug\netcoreapp2.1\Common.pdb
