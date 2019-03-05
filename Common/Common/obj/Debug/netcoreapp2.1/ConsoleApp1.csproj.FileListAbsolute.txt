@@ -1,0 +1,14 @@
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\XLua.Mini.dll
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\XLua.Mini.pdb
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\laiyangjun\test_program\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

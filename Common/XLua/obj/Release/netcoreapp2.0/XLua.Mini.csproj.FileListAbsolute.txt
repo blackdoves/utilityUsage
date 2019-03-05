@@ -1,0 +1,9 @@
+D:\work\colorland_server_lastest\XLua\bin\Release\netcoreapp2.0\XLua.Mini.deps.json
+D:\work\colorland_server_lastest\XLua\bin\Release\netcoreapp2.0\XLua.Mini.dll
+D:\work\colorland_server_lastest\XLua\bin\Release\netcoreapp2.0\XLua.Mini.pdb
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.csprojAssemblyReference.cache
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.csproj.CoreCompileInputs.cache
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.AssemblyInfoInputs.cache
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.AssemblyInfo.cs
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.dll
+D:\work\colorland_server_lastest\XLua\obj\Release\netcoreapp2.0\XLua.Mini.pdb
